@@ -1,11 +1,11 @@
 <div align="center">
 
   <!-- Dynamic Animated Cyberpunk Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,12,21,30&height=240&section=header&text=Hey%20there,%20I'm%20Amir&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Founder%20%26%20Lead%20Architect%20@%20DRKN%20%7C%20AI-Native%20Intelligence%20%26%20Web3&descAlignY=58&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,12,21,30&height=240&section=header&text=Hey%20there,%20I'm%20Amir&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Founder%20and%20Lead%20Architect%20@%20DRKN%20%7C%20AI-Native%20Intelligence%20%7C%20Web3&descAlignY=58&descAlign=50" width="100%" />
 
   <!-- Live Typing Animation -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=00F5D4&center=true&vCenter=true&multiline=false&width=680&height=50&lines=Building+AI-Native+Intelligence+@+DRKN;DeFi+%26+Smart+Trading+Architectures;High-Performance+Bots+%26+Automation;DevOps%2C+Proxmox+%26+Distributed+Infra" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=00F5D4&center=true&vCenter=true&multiline=false&width=680&height=50&lines=Building+AI-Native+Intelligence+@+DRKN;DeFi+and+Smart+Trading+Architectures;High-Performance+Bots+and+Automation;DevOps%2C+Proxmox+and+Distributed+Infra" alt="Typing SVG" />
   </a>
 
   <p align="center">
