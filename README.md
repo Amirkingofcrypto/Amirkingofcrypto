@@ -1,16 +1,16 @@
 <div align="center">
 
   <!-- Dynamic Animated Cyberpunk Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,12,21,30&height=240&section=header&text=Hey%20there,%20I'm%20Amir%20⚡&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Founder%20%26%20Architect%20@%20DRKN%20%7C%20Web3%20%7C%20AI%20Intelligence%20Systems&descAlignY=58&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,12,21,30&height=240&section=header&text=Hey%20there,%20I'm%20Amir&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Founder%20%26%20Lead%20Architect%20@%20DRKN%20%7C%20AI-Native%20Intelligence%20%26%20Web3&descAlignY=58&descAlign=50" width="100%" />
 
   <!-- Live Typing Animation -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=00F5D4&center=true&vCenter=true&multiline=false&width=650&height=50&lines=Building+AI-Native+Intelligence+@+DRKN;DeFi+%26+Smart+Trading+Architectures;High-Performance+Bots+%26+Automation;DevOps%2C+Proxmox+%26+Distributed+Infra" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=00F5D4&center=true&vCenter=true&multiline=false&width=680&height=50&lines=Building+AI-Native+Intelligence+@+DRKN;DeFi+%26+Smart+Trading+Architectures;High-Performance+Bots+%26+Automation;DevOps%2C+Proxmox+%26+Distributed+Infra" alt="Typing SVG" />
   </a>
 
   <p align="center">
     <a href="https://github.com/Amirkingofcrypto?tab=followers"><img src="https://img.shields.io/github/followers/Amirkingofcrypto?label=Followers&logo=github&style=for-the-badge&color=161B22&labelColor=0D1117" /></a>
-    <a href="https://github.com/DRKN-PRO"><img src="https://img.shields.io/badge/Org-DRKN--PRO-7928CA?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <a href="https://github.com/DRKN-PRO"><img src="https://img.shields.io/badge/Organization-DRKN--PRO-7928CA?style=for-the-badge&logo=github&logoColor=white" /></a>
     <img src="https://komarev.com/ghpvc/?username=Amirkingofcrypto&label=Profile%20Views&color=00F5D4&style=for-the-badge" alt="Profile Views" />
   </p>
 
@@ -22,19 +22,21 @@
 
 <table>
   <tr>
-    <td width="120" align="center" valign="middle">
+    <td width="110" align="center" valign="middle">
       <a href="https://github.com/DRKN-PRO">
-        <img src="https://avatars.githubusercontent.com/u/330454302?v=4" width="95" style="border-radius: 16px;" alt="DRKN Logo" />
+        <img src="https://avatars.githubusercontent.com/u/330454302?v=4" width="90" style="border-radius: 16px;" alt="DRKN Logo" />
       </a>
     </td>
     <td>
       <h3>⚡ <a href="https://github.com/DRKN-PRO">DRKN</a> — AI-Native Trading Intelligence</h3>
       <p>
-        Building the intelligence layer for clearer crypto decisions, explainable risk management, and controlled trading automation.
+        Building an intelligence layer for clearer crypto decisions, explainable risk insight, and controlled trading automation.
       </p>
       <p>
         <a href="https://drkn.pro"><img src="https://img.shields.io/badge/Website-drkn.pro-00F5D4?style=flat-square&logo=google-chrome&logoColor=black" /></a>
+        &nbsp;
         <a href="https://x.com/DRKNPRO"><img src="https://img.shields.io/badge/X-@DRKNPRO-white?style=flat-square&logo=x&logoColor=black" /></a>
+        &nbsp;
         <a href="https://github.com/DRKN-PRO"><img src="https://img.shields.io/badge/GitHub-DRKN--PRO-8B5CF6?style=flat-square&logo=github&logoColor=white" /></a>
       </p>
     </td>
@@ -57,7 +59,7 @@
     }
   ],
   "specialties": [
-    "AI Copilots & Market Intelligence Layers",
+    "AI Copilots & Market Intelligence Systems",
     "Web3 / DeFi Architectures & Protocol Engineering",
     "High-Speed Telegram Bots & Algorithmic Automation",
     "Self-Hosted Virtualization (Proxmox VE, LXC, Coder)"
@@ -104,16 +106,16 @@
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Analytics & Insights
 
 <div align="center">
   <table border="0">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Amirkingofcrypto&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=8B5CF6&text_color=C9D1D9&rank_icon=github" alt="GitHub Stats" width="100%" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Amirkingofcrypto&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=8B5CF6&text_color=C9D1D9&rank_icon=github" alt="GitHub Stats" width="100%" />
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amirkingofcrypto&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5D4&fire=FF007A&currStreakNum=00F5D4" alt="GitHub Streak" width="100%" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Amirkingofcrypto&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&text_color=C9D1D9" alt="Top Languages" width="100%" />
       </td>
     </tr>
   </table>
@@ -121,10 +123,10 @@
 
 ---
 
-### 📈 Activity & Contribution Matrix
+### 📈 Contribution Heatmap
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amirkingofcrypto&theme=tokyo-night&bg_color=0D1117&hide_border=true&color=00F5D4&line=8B5CF6&point=FFFFFF" width="100%" alt="Amir Activity Graph" />
+  <img src="https://ghchart.rshah.org/00F5D4/Amirkingofcrypto" width="100%" alt="Amir's Contribution Graph" />
 </p>
 
 ---
